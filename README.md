@@ -1,5 +1,6 @@
-Heya👋, 
-'RepoHashNode' repository was made to demonstrate "How to
+Heya👋,
+
+Specific: 'RepoHashNode' repository was made to demonstrate "How to
 upload a Netbeans project to GitHub".
 Do give it a read on Hashnode.🌱
 

@@ -1,7 +1,7 @@
 Heya👋,
 
 Specific: 'RepoHashNode' repository was made to demonstrate "How to
-upload a Netbeans project to GitHub".
+upload a NetBeans project to GitHub".
 Do give it a read on Hashnode.🌱
 
 Link: 
